@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "6ef1ed25-e2e9-869a-2439-a3963ca1ab55",
+   "title": "Times Tables",
+   "files": [
+    {
+     "path": "challenge5.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Times-Tables-6ef1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "31c015e2-e641-f094-3e72-f92f2cf8adc9",
+   "title": "Teacher Section",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Teacher-Section-31c0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
